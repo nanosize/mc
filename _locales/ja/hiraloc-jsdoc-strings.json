@@ -1,0 +1,15 @@
+{
+  "hiraloc|block": "ひらがなの ぶろっく",
+  "hiraloc.onChat": "ちゃっとで ことば をうけとったときの できごと",
+  "hiraloc.repeat": "かず を きめたぶん くりかえす",
+  "hiraloc.say": "ちゃっとに もじ を いう",
+  "hiraloc.pause": "すこし とまる（みりびょう）",
+  "hiraloc.agentForward": "えーじぇんと を まえに すすめる",
+  "hiraloc.agentBack": "えーじぇんと を うしろに すすめる",
+  "hiraloc.agentRight": "えーじぇんと を みぎへ すすめる",
+  "hiraloc.agentLeft": "えーじぇんと を ひだりへ すすめる",
+  "hiraloc.agentUp": "えーじぇんと を うえへ すすめる",
+  "hiraloc.agentDown": "えーじぇんと を したへ すすめる",
+  "hiraloc.agentPlaceFront": "えーじぇんと が まえに ぶろっく を おく",
+  "hiraloc.agentPlaceDown": "えーじぇんと が したに ぶろっく を おく"
+}
