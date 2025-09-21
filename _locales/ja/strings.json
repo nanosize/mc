@@ -1,0 +1,15 @@
+{
+  "hiraloc|block": "ひらがな",
+  "hiraloc.onChat|block": "ちゃっとで %cmd といったら %handler",
+  "hiraloc.repeat|block": "%times かい くりかえす %handler",
+  "hiraloc.say|block": "メッセージ %msg をいう",
+  "hiraloc.pause|block": "ちょっと %ms みりびょう まつ",
+  "hiraloc.agentForward|block": "えーじぇんと を まえに %blocks ぶろっく すすむ",
+  "hiraloc.agentBack|block": "えーじぇんと を うしろに %blocks ぶろっく すすむ",
+  "hiraloc.agentRight|block": "えーじぇんと を みぎへ %blocks ぶろっく すすむ",
+  "hiraloc.agentLeft|block": "えーじぇんと を ひだりへ %blocks ぶろっく すすむ",
+  "hiraloc.agentUp|block": "えーじぇんと を うえへ %blocks ぶろっく すすむ",
+  "hiraloc.agentDown|block": "えーじぇんと を したへ %blocks ぶろっく すすむ",
+  "hiraloc.agentPlaceFront|block": "えーじぇんと が まえに ぶろっくを おく",
+  "hiraloc.agentPlaceDown|block": "えーじぇんと が したに ぶろっくを おく"
+}

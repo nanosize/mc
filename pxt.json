@@ -1,0 +1,24 @@
+{
+  "name": "makecode-hiragana-locale-demo",
+  "version": "0.1.0",
+  "description": "MakeCode拡張のローカライズ機能で、ブロック表示を日本語=ひらがなに切り替えるデモ",
+  "license": "MIT",
+  "authors": [
+    "ChatGPT"
+  ],
+  "dependencies": {
+    "core": "*",
+    "minecraft": "*"
+  },
+  "files": [
+    "README.md",
+    "main.ts",
+    "_locales/ja/strings.json",
+    "icon.png"
+  ],
+  "supportedTargets": [
+    "minecraft"
+  ],
+  "preferredEditor": "tsprj",
+  "public": true
+}
